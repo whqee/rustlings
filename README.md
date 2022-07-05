@@ -1,3 +1,41 @@
+# Rustlings for OS Training Camp 2022
+
+From https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md
+
++ 2022-07-02 rustlings 44/84
++ 2022-07-03 rustlings 68/84
++ 2022-07-04 rustlings 83/84 +  Lock free concurrency
++ 2022-07-05 rustlings 84/84
+
+| Exercise               | Progress     |
+|------------------------|--------------|
+| variables              | :heavy_check_mark: |
+| functions              | :heavy_check_mark: |
+| if                     | :heavy_check_mark: |
+| move_semantics         | :heavy_check_mark: |
+| primitive_types        | :heavy_check_mark: |
+| structs                | :heavy_check_mark: |
+| enums                  | :heavy_check_mark: |
+| modules                | :heavy_check_mark: |
+| collections            | :heavy_check_mark: |
+| strings                | :heavy_check_mark: |
+| error_handling         | :heavy_check_mark: |
+| generics               | :heavy_check_mark: |
+| option                 | :heavy_check_mark: |
+| traits                 | :heavy_check_mark: |
+| tests                  | :heavy_check_mark: |
+| standard_library_types | :heavy_check_mark: |
+| threads                | :heavy_check_mark: |
+| macros                 | :heavy_check_mark: |
+| clippy                 | :heavy_check_mark: |
+| conversions            | :heavy_check_mark: |
+
+
+# Rustlings README
+
++ [README](./rustlings_README.md)
+
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
